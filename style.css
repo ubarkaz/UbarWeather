@@ -138,7 +138,17 @@ h1 {
 .suggestion-list{
     padding-bottom: 30px;
 }
+.suggestion-item:hover {
+    background-color: #fff;
+  }
 
+  .footer {
+    background-color: #6C757D;
+    padding: 20px;
+    text-align: left;
+    color: #fff;
+    font-weight: bold;
+  }
 @media (max-width: 1400px) {
   .weather-data .current-weather {
     padding: 20px;

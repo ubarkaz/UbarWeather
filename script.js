@@ -57,6 +57,7 @@ const renderSuggestions = (suggestions) => {
         listItem.textContent = city;
         suggestionList.appendChild(listItem);
     });
+    
 }
 
 
